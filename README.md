@@ -9,7 +9,6 @@
 
 For full documentation on all the various options for QEMU please see the html docs.
 
-
 # BUILDING
 
 Preparing:
